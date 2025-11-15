@@ -11,6 +11,11 @@ export default function Home() {
 
       <main>
         <h1 className='title'>Welcome to our Group Website for CSCI 1000!</h1>
+        <img
+            className='pic'
+            src='https://media.licdn.com/dms/image/v2/D5603AQFCzbubOteJPw/profile-displayphoto-shrink_400_400/B56ZT7TNRHHQAg-/0/1739382904276?e=1764806400&v=beta&t=sP4NfjU7apAx-Xs64934k2MaQsWGksKEkuYzwWqRu3o'
+            alt='AlPisano'
+          />
 
         <p className='description'>
           Get started by editing <code>src/pages/index.js</code> to be your
