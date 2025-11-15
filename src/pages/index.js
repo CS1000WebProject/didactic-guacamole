@@ -23,7 +23,7 @@ export default function Home() {
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
-          <a href='/SmithMefford ' className='card'>
+          <a href='SmithMefford.js' className='card'>
             <h3>About Smith Mefford &rarr;</h3>
             <p>Click here to learn more about me</p>
           </a>
@@ -37,7 +37,7 @@ export default function Home() {
             </p>
           </a>
           <a
-            href='/AidenBain'
+            href='AidenBain.js'
             className='card'>
             <h3>About Aiden Bains&rarr;</h3>
             <p>Click here to learn more about me</p>
