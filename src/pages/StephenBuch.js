@@ -15,14 +15,12 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
-            I am just your average student – well, maybe not so average. 
-            You see, I've got some incredible powers, like superhuman strength, agility, 
-            and the ability to shoot webs from my wrists. With great power comes great 
-            responsibility, and I'm here to protect New York City from all kinds of baddies,
-            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
-            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
+            I'm Stephen, a Freshman studying Computer Science at the University of
+            Colorado Boulder. My lifelong dedication is to learning new things and
+            nowhere is that more omnipresent than in the technology industry. Whether
+            it's a project, competition, or examination, I'll be up to the challenge.
+            I'm eager to pursue opportunities related to computer technology and its
+            wider applications in the future.
           </p>
 
           <a className='button' href='/'>
