@@ -29,9 +29,9 @@ export default function Home() {
           </a>
 
           <a href='StephenBuch' className='card'>
-            <h3>Stephen Buch's Page&rarr;</h3>
+            <h3>About Stephen Buch &rarr;</h3>
             <p>
-              Come check out my page!
+              Click here to learn more about me
             </p>
           </a>
           <a
