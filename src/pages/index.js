@@ -28,7 +28,7 @@ export default function Home() {
             <p>Click here to learn more about me</p>
           </a>
 
-          <a href='Stephen Buch' className='card'>
+          <a href='StephenBuch' className='card'>
             <h3>Stephen Buch's Page&rarr;</h3>
             <p>
               Come check out my page!
