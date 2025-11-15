@@ -1,28 +1,30 @@
 export default function examplePage() {
     return (
       <div className='container'>
-        <title>Website</title>
+        <title>Smith's Page</title>
         <link rel='icon' href='/favicon.ico' />
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Smith Mefford. </h1>
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
+            src='https://media.licdn.com/dms/image/v2/D5603AQHXMpJUrhuJ4A/profile-displayphoto-shrink_400_400/B56ZjzL1N.HcAo-/0/1756426622298?e=1764806400&v=beta&t=sMBNz1Kg2M7l1gqv1SW65CvpZOyz6CEKQn8IwZ4uDMs'
+            alt='Smith Mefford'
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
-            I am just your average student – well, maybe not so average. 
-            You see, I've got some incredible powers, like superhuman strength, agility, 
-            and the ability to shoot webs from my wrists. With great power comes great 
-            responsibility, and I'm here to protect New York City from all kinds of baddies,
-            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
-            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
+            I am a freshman Computer Science & Physics double major at CU Boulder with a strong interest in game design. My career goal
+            is to become a software dev, bridging the gap between advanced computing technologies and real-world applications. I bring a solid
+            foundation in programming through my Oracle Java Foundations certification and additional experience in C++ development. Beyond
+            academics, I have honed my problem-solving and teamwork skills through leadership roles in VEX Robotics, where I designed and
+            iterated robots for competitive challenges, and by tutoring peers in SAT math strategies with Khan Academy’s Schoolhouse.world.
+            My experiences also extend outside of technology: I dedicated 500+ volunteer hours at the Center for Birds of Prey, handling raptors
+            and educating the public, which strengthened my communication, patience, and ability to work in unique and challenging environments. 
+            As a National Merit Finalist, I am recognized among the top 1% of graduating high school students nationwide, an achievement that
+            reflects my academic excellence, perseverance, and commitment to growth.I am eager to connect with professionals, researchers, and
+            peers in the fields of computer science and game development.
           </p>
 
           <a className='button' href='/'>

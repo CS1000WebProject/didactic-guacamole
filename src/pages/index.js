@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className='container'>
       <Head>
-        <title>Website</title>
+        <title>CS1000Webapp</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
@@ -23,9 +23,9 @@ export default function Home() {
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
-          <a href='/TomHolland ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
+          <a href='/SmithMefford ' className='card'>
+            <h3>About Smith Mefford &rarr;</h3>
+            <p>Click here to learn more about me</p>
           </a>
 
           <a
