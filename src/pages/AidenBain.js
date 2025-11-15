@@ -6,23 +6,20 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Hi, I'm Aiden Bain. </h1>
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
+            src='https://media.licdn.com/dms/image/v2/D4E03AQH9AGgmUFWVDQ/profile-displayphoto-scale_200_200/B4EZlaK_QfHIAY-/0/1758154454449?e=1764806400&v=beta&t=WogblMBGmpf5jaHDPlO0DeF_DJzASNzEr2255IXry-A'
+            alt='not tom holland'
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
-            I am just your average student – well, maybe not so average. 
-            You see, I've got some incredible powers, like superhuman strength, agility, 
-            and the ability to shoot webs from my wrists. With great power comes great 
-            responsibility, and I'm here to protect New York City from all kinds of baddies,
-            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
-            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
+            I’m a computer science student building a foundation in software engineering, game development, and technical problem-solving. I thrive in environments where I can turn an idea into something playable, visual, or interactive. Recently, I’ve focused on Unity development, Blender modeling, C# programming, and designing systems grounded in strong data-structure thinking.
+
+I believe that games are one of the most powerful mediums for learning and creativity. My goal is to build experiences that are both technically solid and emotionally meaningful.
+
+I’m currently seeking opportunities—jobs, internships, collaborations, or mentorships—that will challenge me to grow as a developer and creator.
           </p>
 
           <a className='button' href='/'>
