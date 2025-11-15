@@ -36,12 +36,7 @@ export default function Home() {
               Return to the Github for resources on creating your own website!
             </p>
           </a>
-          <a
-            href='AidenBain.js'
-            className='card'>
-            <h3>About Aiden Bains&rarr;</h3>
-            <p>Click here to learn more about me</p>
-          </a>
+          
           <a href='https://blog.hubspot.com/website/html' className='card'>
             <h3>HTML and CSS &rarr;</h3>
             <p>Click here to learn more about HTML and CSS</p>
