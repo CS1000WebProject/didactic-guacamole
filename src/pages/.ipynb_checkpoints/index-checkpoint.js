@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className='container'>
       <Head>
-        <title>CS1000Webapp</title>
+        <title>Website</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
@@ -23,22 +23,22 @@ export default function Home() {
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
-          <a href='SmithMefford' className='card'>
-            <h3>About Smith Mefford &rarr;</h3>
-            <p>Click here to learn more about me</p>
+          <a href='/TomHolland ' className='card'>
+            <h3>Example About Me Page &rarr;</h3>
+            <p>Click here to navigate to an example page</p>
           </a>
 
-          <a href='Stephen Buch' className='card'>
+          <a href='/Stephen Buch ' className='card'>
             <h3>Stephen Buch's Page&rarr;</h3>
             <p>
               Come check out my page!
             </p>
           </a>
           <a
-            href='AidenBain'
+            href='https://nextjs.org/learn/foundations/about-nextjs'
             className='card'>
-            <h3>About Aiden Bains&rarr;</h3>
-            <p>Click here to learn more about me</p>
+            <h3>Next.js&rarr;</h3>
+            <p>Click here to learn more about Next.js</p>
           </a>
           <a href='https://blog.hubspot.com/website/html' className='card'>
             <h3>HTML and CSS &rarr;</h3>
