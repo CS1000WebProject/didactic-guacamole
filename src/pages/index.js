@@ -37,7 +37,7 @@ export default function Home() {
             </p>
           </a>
           <a
-            href='AidenBain.js'
+            href='AidenBain'
             className='card'>
             <h3>About Aiden Bains&rarr;</h3>
             <p>Click here to learn more about me</p>
