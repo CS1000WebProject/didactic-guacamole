@@ -35,9 +35,9 @@ export default function Home() {
             </p>
           </a>
           <a
-            href='AidenBain.js'
+            href='AidenBain'
             className='card'>
-            <h3>About Aiden Bains&rarr;</h3>
+            <h3>About Aiden Bain&rarr;</h3>
             <p>Click here to learn more about me</p>
           </a>
           <a href='https://blog.hubspot.com/website/html' className='card'>
