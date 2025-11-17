@@ -10,17 +10,17 @@ export default function LiamCavalieri() {
           </div>
           <img
             className='pic'
-            src='https://media.licdn.com/dms/image/v2/D4E35AQHz2V3hrEyj3A/profile-framedphoto-shrink_400_400/B4EZlKNjUKKkAc-/0/1757886690934?e=1763838000&v=beta&t=idp8ljICknwMVaFEbMCHRi9dTUgGTcblPyjfeKCiTxo'
+            src='https://www.citypng.com/public/uploads/preview/loading-load-icon-transparent-png-701751695033022vy5stltzj3.png'
             alt='liam cavalieri'
           />
 
           <p className='description'>
-            I'm Liam, a Freshman studying Computer Science at the University of
-            Colorado Boulder. My lifelong dedication is to learning new things and
-            nowhere is that more omnipresent than in the technology industry. Whether
-            it's a project, competition, or examination, I'll be up to the challenge.
-            I'm eager to pursue opportunities related to computer technology and its
-            wider applications in the future.
+            I'm Liam, a Freshman at CU Boulder studying Computer Science. I've done a lot of work
+            in the past involving engineering topics and particularly computer science, so I'm excited
+            to continue learning about computer science technology. I've particularly interested in
+            artificial intelligence and somewhat interested in game design. During my free time, I enjoy
+            playing video games and playing the piano. My favorite type of cheese is brie, but parmesan
+            is a close second.
           </p>
 
           <a className='button' href='/'>
