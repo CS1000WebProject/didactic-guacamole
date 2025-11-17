@@ -13,12 +13,10 @@ export default function Home() {
         <h1 className='title'>Welcome to our Group Website for CSCI 1000!</h1>
 
         <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
+          This is the main page of our website!
         </p>
         <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
+          You can see descriptions of all of the team members below.
         </p>
         <code>src/page/teamMemberName.js</code>
 
