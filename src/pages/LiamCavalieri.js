@@ -10,7 +10,7 @@ export default function LiamCavalieri() {
           </div>
           <img
             className='pic'
-            src='https://www.citypng.com/public/uploads/preview/loading-load-icon-transparent-png-701751695033022vy5stltzj3.png'
+            src='https://media.licdn.com/dms/image/v2/D4E35AQHz2V3hrEyj3A/profile-framedphoto-shrink_400_400/B4EZlKNjUKKkAc-/0/1757886690934?e=1763838000&v=beta&t=idp8ljICknwMVaFEbMCHRi9dTUgGTcblPyjfeKCiTxo'
             alt='liam cavalieri'
           />
 
