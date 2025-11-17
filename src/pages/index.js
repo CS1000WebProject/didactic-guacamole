@@ -45,9 +45,9 @@ export default function Home() {
             <h3>About Aiden Bain&rarr;</h3>
             <p>Click here to learn more about me</p>
           </a>
-          <a href='https://blog.hubspot.com/website/html' className='card'>
-            <h3>HTML and CSS &rarr;</h3>
-            <p>Click here to learn more about HTML and CSS</p>
+          <a href='LiamCavalieri' className='card'>
+            <h3>About Liam Cavalieri&rarr;</h3>
+            <p>Click here to learn more about me</p>
           </a>{' '}
         </div>
       </main>
